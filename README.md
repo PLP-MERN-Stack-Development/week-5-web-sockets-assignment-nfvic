@@ -12,6 +12,12 @@ It uses:
 
 The app supports global and private messaging, message reactions, read receipts, file/image sharing, real-time notifications, and more. It is fully responsive and works on both desktop and mobile devices.
 
+---######
+****Deployment
+week-5-web-sockets-assignment-nfvic-gagdbi25n-nfvics-projects.vercel.app
+******Domains
+week-5-web-sockets-assignment-nfvic.vercel.app
+
 ---
 
 ## 🛠️ Setup Instructions
